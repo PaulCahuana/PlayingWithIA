@@ -1,0 +1,3 @@
+Exists other ways for implement detection objects without deep learning or machine learning, one of this ways is: template matching
+this tchnique can search some image on another image, but this algorithm fails when you have differents inclinations on the test image, or differents brightness, etc., but this code is very interesting when you have the same patron in your computer vision project.
+Link to reference: https://www.pyimagesearch.com/2021/03/22/opencv-template-matching-cv2-matchtemplate/
